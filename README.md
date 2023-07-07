@@ -31,7 +31,7 @@ optional arguments:
 python '.\iSecure-Center-RCE_POC.py' -f .\url.txt -t 10
 ```
 
-![image-20230706013446912](D:\tools\GitHub-exp\iSecure-Center RCE 海康综合安防\github\img\image-20230706013446912.png)
+![image-20230706013446912](https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE/raw/main/img/image-20230706013446912.png)
 
 
 
@@ -53,11 +53,11 @@ optional arguments:
 python '.\iSecure-Center-RCE_EXP.py' -u http://127.0.0.1
 ```
 
-![image-20230706013023264](D:\tools\GitHub-exp\iSecure-Center RCE 海康综合安防\github\img\image-20230706013023264.png)
+![image-20230706013023264](https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE/raw/main/img/image-20230706013023264.png)
 
 一键上传后通过哥斯拉连接
 
-![image-20230706013208837](D:\tools\GitHub-exp\iSecure-Center RCE 海康综合安防\github\img\image-20230706013208837.png)
+![image-20230706013208837](https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE/raw/main/img/image-20230706013208837.png)
 
 
 
